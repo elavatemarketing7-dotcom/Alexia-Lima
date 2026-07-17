@@ -653,7 +653,7 @@ export default function App() {
               className="inline-flex py-4 px-8 bg-gold hover:bg-gold-light text-black font-extrabold text-base md:text-lg rounded-2xl shadow-xl shadow-gold/10 hover:shadow-gold/20 transition-all items-center gap-3 cursor-pointer btn-premium-pulse"
             >
               <MessageCircle className="w-5 h-5 text-black" />
-              <span>Agendar consulta gratuita no WhatsApp</span>
+              <span>Agendar consulta no WhatsApp</span>
               <ArrowRight className="w-4 h-4 text-black" />
             </a>
             
@@ -1314,7 +1314,7 @@ export default function App() {
               className="inline-flex py-4 px-10 bg-gold hover:bg-gold-light text-black font-extrabold text-base md:text-lg rounded-2xl shadow-2xl shadow-gold/10 transition-all items-center gap-3 cursor-pointer btn-premium-pulse"
             >
               <MessageCircle className="w-5.5 h-5.5 text-black" />
-              <span>Agendar Minha Consulta de Avaliação Gratuita</span>
+              <span>Agendar consulta no WhatsApp</span>
               <ArrowRight className="w-4 h-4 text-black" />
             </a>
             
